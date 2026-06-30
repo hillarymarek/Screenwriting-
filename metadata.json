@@ -1,0 +1,6 @@
+{
+  "name": "Screenplay Script Formatter",
+  "description": "Converts dialogue and raw scripts into industry-standard US Screenplay formatting, fully compatible with Final Draft (.fdx).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
